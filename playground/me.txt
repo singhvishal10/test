@@ -1,0 +1,5 @@
+{{#user}}
+Name: Vishal Singh
+Skills: HTML, CSS, JS, React.js, Python, Bootstrap, mysql
+Email: svishal.vs821@gmail.com
+{{/user}}
